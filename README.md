@@ -1,24 +1,19 @@
-### ¡Hola! Soy Daniel Moreno 👋
+### ¡Hi! I'm Daniel Moreno 👋
 ####
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   code: [Javascript, HTML, CSS, Java, CSharp],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+         js: ["React"],
       },
-      backEnd: {
-         java: ["Spring"],
-         js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+      deskTop: {
+         csharp: ["WinForms"]
+         java: ["JavaFX"]
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      databases: [mySQL", "SQLServer"],
+      mobile: ["React Native",]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   currentOccupation: ["last year student, open for job opportunities"]
 };
 ```
