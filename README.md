@@ -5,14 +5,14 @@ const aboutMe = {
    code: [Javascript, HTML, CSS, Java, CSharp],
    technologies: {
       frontEnd: {
-         js: ["React"],
+         js: ["React"]
       },
       deskTop: {
-         csharp: ["WinForms"]
+         csharp: ["WinForms"],
          java: ["JavaFX"]
       },
-      databases: [mySQL", "SQLServer"],
-      mobile: ["React Native",]
+      databases: ["mySQL", "SQLServer"],
+      mobile: ["React Native"]
    },
    currentOccupation: ["last year student, open for job opportunities"]
 };
