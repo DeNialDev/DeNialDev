@@ -5,7 +5,7 @@ const aboutMe = {
    code: [Javascript, HTML, CSS, Java, CSharp],
    technologies: {
       frontEnd: {
-         js: ["React"]
+         js: ["React", "Vue"]
       },
       deskTop: {
          csharp: ["WinForms"],
