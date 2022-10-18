@@ -7,6 +7,9 @@ const aboutMe = {
       frontEnd: {
          js: ["React", "Vue"]
       },
+      backEnd: {
+         php:["Laravel"]
+      },
       deskTop: {
          csharp: ["WinForms"],
          java: ["JavaFX"]
