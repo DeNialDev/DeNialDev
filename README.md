@@ -17,6 +17,6 @@ const aboutMe = {
       databases: ["mySQL", "SQLServer"],
       mobile: ["React Native"]
    },
-   currentOccupation: ["last year student, open for job opportunities"]
+   currentOccupation: ["FS Developer"]
 };
 ```
