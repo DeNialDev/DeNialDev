@@ -21,3 +21,5 @@ const aboutMe = {
 };
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeNialDev)](https://github.com/DeNialDev/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DeNialDev&show_icons=true&theme=radical)
+
