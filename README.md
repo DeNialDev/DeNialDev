@@ -20,3 +20,4 @@ const aboutMe = {
    currentOccupation: ["FS Developer"]
 };
 ```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeNialDev)](https://github.com/DeNialDev/github-readme-stats)
