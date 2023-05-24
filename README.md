@@ -2,7 +2,7 @@
 ####
 ```javascript
 const aboutMe = {
-   code: [Javascript, HTML, CSS, Java, CSharp],
+   code: [Javascript, HTML, CSS, Java, CSharp, 'PHP'],
    technologies: {
       frontEnd: {
          js: ["React", "Vue"]
