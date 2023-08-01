@@ -21,6 +21,5 @@ const aboutMe = {
 };
 
 ```
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DeNialDev&show_icons=true&theme=radical)
 [![My Skills](https://skillicons.dev/icons?i=java,vue,react,laravel,figma&theme=light)](https://skillicons.dev)
 
