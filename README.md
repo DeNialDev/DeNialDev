@@ -19,7 +19,8 @@ const aboutMe = {
    },
    currentOccupation: ["Web Developer"]
 };
-
 ```
+### [¡Hi! I'm Daniel Moreno 👋](https://www.portfolio-danielm.site)
+
 [![My Skills](https://skillicons.dev/icons?i=java,vue,react,laravel,figma&theme=light)](https://skillicons.dev)
 
