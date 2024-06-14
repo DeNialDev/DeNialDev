@@ -9,6 +9,7 @@ const aboutMe = {
       },
       backEnd: {
          php:["Laravel"]
+         c#:["Asp.NET"]
       },
       deskTop: {
          csharp: ["WinForms"],
@@ -17,7 +18,7 @@ const aboutMe = {
       databases: ["mySQL", "SQLServer"],
       mobile: ["React Native"]
    },
-   currentOccupation: ["Web Developer"]
+   currentOccupation: ["Software Developer Jr"]
 };
 ```
 ### [My portfolio 👋](https://www.portfolio-danielm.site)
