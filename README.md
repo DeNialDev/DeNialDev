@@ -16,8 +16,10 @@ const aboutMe = {
          java: ["JavaFX"]
       },
       databases: ["mySQL", "SQLServer"],
-      mobile: ["React Native"]
-   },
+      mobile: ["React Native"],
+      testing: {
+         automation_testing: ["TestCafe"]
+      },
    currentOccupation: ["Software Developer Jr"]
 };
 ```
